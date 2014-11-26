@@ -1,0 +1,7 @@
+# Lines starting with hashtags are comments, and are discarded by travelmap.py.
+# This is an example file for use with the colors option turned OFF,
+# as it does not describe the line-types connecting the locations.
+Rome, Italy
+Washington DC
+New York City
+Nuuk, Greenland

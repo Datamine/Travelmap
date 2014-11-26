@@ -1,0 +1,31 @@
+# For the colors option: differentiating between Air and Rail.
+# This is an example file for use with the colors option turned ON. Between every
+# set of coordinates, there is a "descriptor" for the line type. The program
+# will assign a color to each distinct descriptor. For example, running 
+# travelmap.py on this file with the colors turned ON will produce a map where 
+# the connections between Paris and Seattle, Seattle and Montreal, and Shanghai
+# and Singapore are all the same color. Note that the descriptors can be anything
+# you like: names of methods of transportation (e.g. "Rail"), numbers, etc.
+Bali
+Air
+Shanghai
+Rail
+Ulaanbataar
+Air
+Tallinn, Estonia
+Rail
+Berlin, Germany
+Rail
+Barcelona, Spain
+Air
+Reykjavik
+Air
+Vermont
+Rail
+Cleveland, Ohio
+Rail
+Tucson, AZ
+Air
+French Guyana
+Air
+Madagascar

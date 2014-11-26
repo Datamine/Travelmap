@@ -1,0 +1,21 @@
+San Francisco
+1
+New Orleans
+2
+Durham, NC
+3
+Lisbon
+4
+Sicily
+5
+Syria
+6
+Tehran
+7
+Karachi
+8
+Nepal
+9
+Xining
+10
+Shanghai

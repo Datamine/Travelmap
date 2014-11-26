@@ -1,0 +1,113 @@
+Marrakesh
+1
+Ghana
+2
+Tunisia
+2
+Cairo
+4
+South Sudan
+4
+Ghana
+3
+Marrakesh
+3
+Tunisia
+1
+South Sudan
+3
+Zimbabwe
+3
+Seychelles
+3
+Maledives
+1
+Sri Lanka
+1
+Bangladesh
+2
+Cambodia
+4
+Laos
+4
+Hanoi
+4
+Manila
+5
+Kyoto
+5
+Papua New Guinea
+5
+Fiji
+5
+Papua New Guinea
+5
+Christchurch, NZ
+5
+Papua New Guinea
+5
+Kalgoorlie
+5
+Papua New Guinea
+5
+Kyoto
+6
+Fiji
+6
+Christchurch, NZ
+1
+Kalgoorlie
+2
+Kuala Lumpur
+2
+Manila
+4
+Papua New Guinea
+3
+Jakarta
+3
+Indian Ocean
+5
+Yemen
+2
+Armenia
+1
+Amman, Jordan
+2
+Malta
+6
+Strait of Gibraltar
+6
+Guadeloupe
+4
+Bogota
+4
+Cuba
+1
+Suriname
+3
+Paraguay
+3
+Suriname
+6
+Recife, Brazil
+1
+Paraguay
+1
+Montevideo
+3
+Paraguay
+2
+Buenos Aires
+5
+Santiago
+4
+Hawaii
+3
+Cuba
+5
+Paraguay
+2
+Cuba
+1
+Paraguay
